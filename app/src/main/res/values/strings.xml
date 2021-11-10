@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Champion of the week App</string>
+    <string name="week_1">Week 1</string>
+    <string name="week_2">Week 2</string>
+    <string name="week_3">Week 3</string>
+    <string name="week_4">Week 4</string>
+    <string name="week_5">Week 5</string>
+    <string name="week_6">Week 6</string>
+    <string name="week_7">Week 7</string>
+    <string name="long_text">We are very proud of you ❤️❤️❤️❤️❤️ and its been an amazing 8 weeks with you. Keep learning and pushing and make sure to excel. Android Development is fun and we are sure you would do great.
+                  From Almin 😏 (Lead Instructor), Omar 😁 ( Instructor) and Kelvin 😳 (TA)
+
+    </string>
+    <string name="champion_of_the_week">Champion Of The Week</string>
+    <string name="name_of_champion">TextView</string>
+    <string name="nominations">Nominations!</string>
+    <string name="runner_up_third">TextView</string>
+    <string name="runner_up_second">TextView</string>
+
+</resources>
+
